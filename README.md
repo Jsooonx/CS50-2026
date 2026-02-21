@@ -74,9 +74,10 @@ python3 program.py
 ## 🎯 Purpose
 
 This repository serves as:
-A structured learning archive
-A programming portfolio
-A record of my computer science journey in 2026
+
+- A structured learning archive
+- A programming portfolio
+- A record of my computer science journey in 2026
 
 ---
 
