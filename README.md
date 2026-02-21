@@ -69,19 +69,25 @@ gcc program.c -o program
 python3 program.py
 ```
 
-🎯 Purpose
+---
+
+## 🎯 Purpose
 
 This repository serves as:
 A structured learning archive
 A programming portfolio
 A record of my computer science journey in 2026
 
-⚠️ Academic Honesty
+---
+
+## ⚠️ Academic Honesty
 
 These solutions are shared for documentation and portfolio purposes only.
 If you are currently enrolled in CS50, please adhere to the course’s academic honesty policy.
 
-👤 Author
+---
+
+## 👤 Author
 
 GitHub: @Jsooonx
 CS50x 2026
