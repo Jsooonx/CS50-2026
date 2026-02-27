@@ -23,28 +23,6 @@ The goal is not only to complete the course, but to deeply understand:
 
 ---
 
-## 🗂 Repository Structure
-CS50-2026/
-│
-├── week1/
-│ └── pset1/
-│
-├── week2/
-├── week3/
-├── week4/
-├── week5/
-├── week6/
-├── week7/
-├── week8/
-├── week9/
-│
-└── final-project/
-
-
-Each folder contains source code and related files for that week's assignments.
-
----
-
 ## 🛠 Technologies Used
 
 - C (GCC)
@@ -78,13 +56,6 @@ This repository serves as:
 - A structured learning archive
 - A programming portfolio
 - A record of my computer science journey in 2026
-
----
-
-## ⚠️ Academic Honesty
-
-These solutions are shared for documentation and portfolio purposes only.
-If you are currently enrolled in CS50, please adhere to the course’s academic honesty policy.
 
 ---
 
