@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because if sort1 used in random arrays, it is exponentially longer the bigger the array is. If it is only used in the sorted ones, the time multiply itself by the data size (e.g. sorted5000 = 0.02s and sorted50000 = 0.2s).
+
+sort2 uses: Merge Sort
+
+How do you know?: Becuase whether it is used at random or reversed arrays, the time is very-very similar.
+
+sort3 uses: Selection Sort
+
+How do you know?: The Running time is approximately the same for sorted, random, and reversed inputs. The execution time increases significantly as the input size grows.
