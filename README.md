@@ -47,7 +47,7 @@ gcc program.c -o program
 python3 program.py
 ```
 
-# Don't look at the Makefile files or venv folder, that is only for local CS50 library dependencies.
+#### Don't look at the Makefile files or venv folder, that is only for local CS50 library dependencies.
 
 ---
 
