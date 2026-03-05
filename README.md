@@ -61,7 +61,7 @@ This repository serves as:
 
 ---
 
-## 👤 Author
+## Author
 
 GitHub: @Jsooonx
 CS50x 2026
