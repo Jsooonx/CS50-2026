@@ -6,7 +6,7 @@ CS50x is Harvard's introduction to the intellectual enterprises of computer scie
 
 ---
 
-## 📚 About This Repository
+## About This Repository
 
 This repo documents my progress throughout the course, including:
 
@@ -23,7 +23,7 @@ The goal is not only to complete the course, but to deeply understand:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - C (GCC)
 - Python
@@ -35,7 +35,7 @@ The goal is not only to complete the course, but to deeply understand:
 
 ---
 
-## 🚀 Running the Programs
+## Running the Programs
 
 ### C Programs
 ```bash
@@ -51,7 +51,7 @@ python3 program.py
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository serves as:
 
