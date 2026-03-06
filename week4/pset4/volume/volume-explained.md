@@ -1,4 +1,4 @@
-# CS50 Week 4 — Volume
+# CS50 Week 4 - Volume
 
 This program modifies the volume of a `.wav` file by multiplying each audio sample by a scaling factor.
 
