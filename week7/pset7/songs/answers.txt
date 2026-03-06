@@ -1,0 +1,5 @@
+If songs.db contains the top 100 songs of a listener from 2018, their audio aura could be estimated by calculating the average energy, valence, and danceability of those songs. For example, high energy and danceability might suggest the listener prefers upbeat and lively music, while high valence could indicate generally positive or happy songs.
+
+However, using simple averages may not represent the listener accurately. Averages can hide variation in musical taste, since a listener might enjoy both calm and energetic songs. In addition, analyzing only the top 100 songs from a single year may not reflect their full listening habits.
+
+A better approach could include weighting songs by how often they were played, grouping songs into different mood clusters, or analyzing listening patterns across different times or contexts. This would provide a more nuanced description of the listener’s musical preferences.
