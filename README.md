@@ -10,7 +10,6 @@ This repo documents my progress throughout the course, including:
 
 - Weekly problem sets
 - Programming exercises
-- Final project
 - Experiments and improvements beyond the required tasks
 
 The goal is not only to complete the course, but to deeply understand:
